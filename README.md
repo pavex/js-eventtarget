@@ -1,9 +1,9 @@
-# publixe-event-target
+# publixe-eventtarget
 Event target abstract class
 
 ```js
 
-import EventTarge from 'publixe-event-target';
+import EventTarge from 'publixe-eventtarget';
 
 class Service extends EventTarget {
 	check() {

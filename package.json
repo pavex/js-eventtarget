@@ -1,5 +1,5 @@
 {
-  "name": "pavex-react-native",
+  "name": "publixe-event-target",
   "version": "0.0.1",
   "description": "",
   "main": "src/EventTarget.js",
@@ -9,14 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pavex/event-target.git"
+    "url": "git+https://github.com/pavex/publixe-event-target.git"
   },
   "keywords": [
-    "client",
-    "http",
-    "json",
-    "rest",
-    "xmlhttprequest",
+    "publixe",
+    "event"
     "react",
     "reactnative",
     "javascript"
@@ -24,9 +21,9 @@
   "author": "Pavel Macháček <pavex@ines.cz> (http://blog.ines.cz)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pavex/event-target/issues"
+    "url": "https://github.com/pavex/publixe-event-target/issues"
   },
-  "homepage": "https://github.com/pavex/event-taret#readme",
+  "homepage": "https://github.com/pavex/publixe-event-target#readme",
   "devDependencies": {
     "babel-cli": "^6.24.0",
     "babel-plugin-transform-class-properties": "^6.23.0",

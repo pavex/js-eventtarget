@@ -39,6 +39,19 @@ export default class EventTarget {
 /**
  * @param {string} event
  * @param {function(o)} listener
+ * @return {boolean}
+ */
+	hasEventListener(event, listener) {
+		return this._findEventListenerIndex(event, listener) !== null;
+	};
+
+
+
+
+
+/**
+ * @param {string} event
+ * @param {function(o)} listener
  */
 	addEventListener(event, listener) {
 		let index = this._findEventListenerIndex(event, listener);

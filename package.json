@@ -1,5 +1,5 @@
 {
-  "name": "publixe-eventtarget",
+  "name": "js-eventtarget",
   "version": "0.0.1",
   "description": "Event target abstract class",
   "main": "src/EventTarget.js",

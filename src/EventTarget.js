@@ -1,6 +1,6 @@
 /**
  * @fileoverview Event target controller.
- * @author pavex@ines.cz
+ * @author Pavel Mach·Ëek <pavex@ines.cz>
  */
 
 

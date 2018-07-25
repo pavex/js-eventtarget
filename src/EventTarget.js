@@ -7,8 +7,12 @@
 export default class EventTarget {
 
 
+	constructor() {
+
 /** @type {Array<Object>} */
-	_listeners = [];
+		this._listeners = [];
+	};
+
 
 
 

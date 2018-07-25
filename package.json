@@ -1,6 +1,6 @@
-{
+﻿{
   "name": "js-eventtarget",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Event target abstract class",
   "main": "src/EventTarget.js",
   "scripts": {
@@ -14,6 +14,7 @@
   "keywords": [
     "publixe",
     "event",
+    "eventtarget",
     "react",
     "reactnative",
     "javascript"
@@ -23,10 +24,5 @@
   "bugs": {
     "url": "https://github.com/pavex/js-eventtarget/issues"
   },
-  "homepage": "https://github.com/pavex/js-eventtarget#readme",
-  "devDependencies": {
-    "babel-cli": "^6.24.0",
-    "babel-plugin-transform-class-properties": "^6.23.0",
-    "babel-preset-es2015": "^6.24.0"
-  }
+  "homepage": "https://github.com/pavex/js-eventtarget#readme"
 }

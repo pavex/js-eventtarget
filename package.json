@@ -1,6 +1,6 @@
-﻿{
+{
   "name": "js-eventtarget",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Event target abstract class",
   "main": "src/EventTarget.js",
   "scripts": {
